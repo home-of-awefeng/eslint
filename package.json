@@ -1,0 +1,23 @@
+{
+  "name": "@home-of-awefeng/eslint",
+  "version": "1.0.0",
+  "description": "github群组home-of-awefeng自定义eslint规则集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/home-of-awefeng/eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "home-of-awefeng"
+  ],
+  "author": "home-of-awefeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/home-of-awefeng/eslint/issues"
+  },
+  "homepage": "https://github.com/home-of-awefeng/eslint#readme"
+}

@@ -1,2 +1,5 @@
 # eslint
-npm包：自定义eslint规则集
+
+> `home-of-awefeng`群组自定义的`eslint`包
+
+文档：[eslint](https://eslint.org/)
