@@ -1,22 +1,23 @@
 {
-  "name": "@home-of-awefeng/eslint",
+  "name": "@home-of-awefeng/eslint-config-awefeng",
   "version": "1.0.0",
-  "description": "github群组home-of-awefeng自定义eslint规则集",
+  "description": "github群组home-of-awefeng自定义eslint+prettier规则集",
   "main": "index.js",  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/home-of-awefeng/eslint-config-awefeng.git"
   },
   "keywords": [
-    "eslint-config-vue",
+    "eslint-config-awefeng",
     "home-of-awefeng",
     "eslint",
-    "vue"
+    "vue",
+    "prettier"
   ],
   "author": "home-of-awefeng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/home-of-awefeng/eslint-config-vue2/issues"
+    "url": "https://github.com/home-of-awefeng/eslint-config-awefeng/issues"
   },
-  "homepage": "https://github.com/home-of-awefeng/eslint-config-vue2#readme"
+  "homepage": "https://github.com/home-of-awefeng/eslint-config-awefeng#readme"
 }
