@@ -2,22 +2,21 @@
   "name": "@home-of-awefeng/eslint",
   "version": "1.0.0",
   "description": "github群组home-of-awefeng自定义eslint规则集",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js",  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/home-of-awefeng/eslint.git"
+    "url": "git+https://github.com/home-of-awefeng/eslint-config-awefeng.git"
   },
   "keywords": [
+    "eslint-config-vue",
+    "home-of-awefeng",
     "eslint",
-    "home-of-awefeng"
+    "vue"
   ],
   "author": "home-of-awefeng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/home-of-awefeng/eslint/issues"
+    "url": "https://github.com/home-of-awefeng/eslint-config-vue2/issues"
   },
-  "homepage": "https://github.com/home-of-awefeng/eslint#readme"
+  "homepage": "https://github.com/home-of-awefeng/eslint-config-vue2#readme"
 }
