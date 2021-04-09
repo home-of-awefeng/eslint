@@ -1,8 +1,9 @@
 {
-  "name": "@home-of-awefeng/eslint-config-awefeng",
+  "name": "@awefeng/eslint-config-awefeng",
   "version": "1.0.0",
   "description": "github群组home-of-awefeng自定义eslint+prettier规则集",
   "main": "index.js",  
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/home-of-awefeng/eslint-config-awefeng.git"
